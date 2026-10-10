@@ -7,7 +7,7 @@ It is generated from the pull requests themselves rather than from commit metada
 dropped because their git email does not happen to match their GitHub account. It is regenerated
 from merged pull requests, so you appear without having to ask.
 
-**3 people** have contributed so far.
+**4 people** have contributed so far.
 
 <a href="https://github.com/agentvivekkumar/dontbemichael/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=agentvivekkumar/dontbemichael" alt="Contributor avatars">
@@ -25,8 +25,9 @@ requests, and a pull request always has a real account behind it.
 | [@agentvivekkumar](https://github.com/agentvivekkumar) | 34 | 2026-09-15 | 2026-10-10 |
 | [@josephzhang0602](https://github.com/josephzhang0602) | 1 | 2026-10-10 | 2026-10-10 |
 | [@Junaid522](https://github.com/Junaid522) | 1 | 2026-10-10 | 2026-10-10 |
+| [@avneeshjadhav04](https://github.com/avneeshjadhav04) | 1 | 2026-10-10 | 2026-10-10 |
 
-_36 pull requests from 3 people._
+_37 pull requests from 4 people._
 
 ---
 
